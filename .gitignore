@@ -1,0 +1,9 @@
+*.zip
+data2/
+__pycache__
+*.png
+*.pth.tar
+pyproject.toml
+pyrightconfig.json
+learning_method/fptools
+small_fp_mosaic/
